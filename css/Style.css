@@ -1,4 +1,8 @@
 /* css */
+body {
+    font-family: Helvetica;
+}
+
 img {
     max-height: 300px;
 }
